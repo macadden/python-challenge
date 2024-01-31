@@ -27,14 +27,14 @@ Ejecuta:
 ### 3. Configurar el Archivo .env
 
 Crea un archivo .env en la raíz del proyecto con la siguiente información:
-```DJANGO_SECRET_KEY=''
-```DJANGO_DEBUG=True
-```DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1,172.22.0.2,172.23.0.2,172.19.0.2
-```DJANGO_DB_NAME=python-challenge
-```DJANGO_DB_USER=matiasmacadden
-```DJANGO_DB_PASSWORD=1234
-```DJANGO_DB_HOST=db
-```DJANGO_DB_PORT=5432
+```DJANGO_SECRET_KEY=''```
+```DJANGO_DEBUG=True```
+```DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1,172.22.0.2,172.23.0.2,172.19.0.2```
+```DJANGO_DB_NAME=python-challenge```
+```DJANGO_DB_USER=matiasmacadden```
+```DJANGO_DB_PASSWORD=1234```
+```DJANGO_DB_HOST=db```
+```DJANGO_DB_PORT=5432```
 
 
 ## Configuración de Docker
